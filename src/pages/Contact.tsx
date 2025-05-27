@@ -145,7 +145,7 @@ const Contact = () => {
                           value={formData.phone}
                           onChange={handleChange}
                           className="mt-2 border-sikora-green/20 focus:ring-sikora-green focus:border-sikora-green"
-                          placeholder="+91 98765 43210"
+                          placeholder="+91-9929003003"
                         />
                       </div>
                       <div>
@@ -212,15 +212,13 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-sikora-green mb-1">Phone</h4>
-                    <p className="text-sikora-green/70">+91 98765 43210</p>
-                    <p className="text-sikora-green/70">+91 98765 43211 (Business)</p>
+                    <p className="text-sikora-green/70">+91-9929003003</p>
                   </div>
                   <div>
                     <h4 className="font-semibold text-sikora-green mb-1">Address</h4>
                     <p className="text-sikora-green/70">
-                      123 Chai Street<br />
-                      Bandra West<br />
-                      Mumbai, Maharashtra 400050<br />
+                      Raj House<br />
+                      Jodhpur, Rajasthan<br />
                       India
                     </p>
                   </div>

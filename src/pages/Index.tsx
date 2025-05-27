@@ -10,25 +10,25 @@ const Index = () => {
     {
       name: "Saffron Royal",
       description: "Aromatic saffron meets robust black tea",
-      image: "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9",
+      image: "/lovable-uploads/ab3cef35-3589-4df1-8279-53721c13d1db.png",
       quote: "Like golden sunsets over ancient palaces"
     },
     {
       name: "Adrak Masala",
       description: "Fiery ginger with traditional spices",
-      image: "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+      image: "/lovable-uploads/ab3cef35-3589-4df1-8279-53721c13d1db.png",
       quote: "Warmth that embraces your soul"
     },
     {
       name: "Rose Garden",
       description: "Delicate rose petals in premium green tea",
-      image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      image: "/lovable-uploads/ab3cef35-3589-4df1-8279-53721c13d1db.png",
       quote: "Romance in every delicate sip"
     },
     {
       name: "Mint Monsoon",
       description: "Fresh mint leaves with cooling herbs",
-      image: "https://images.unsplash.com/photo-1500673922987-e212871fec22",
+      image: "/lovable-uploads/ab3cef35-3589-4df1-8279-53721c13d1db.png",
       quote: "Reminds you of monsoon afternoons..."
     }
   ];
@@ -81,8 +81,8 @@ const Index = () => {
             <div className="relative">
               <div className="bg-gradient-to-br from-sikora-green to-sikora-green/80 rounded-2xl p-8 relative overflow-hidden">
                 <img 
-                  src="https://images.unsplash.com/photo-1721322800607-8c38375eef04"
-                  alt="Steaming cup of chai"
+                  src="https://images.unsplash.com/photo-1559827260-dc66d52bef19"
+                  alt="Grandmother lovingly pouring tea for her grandson"
                   className="w-full h-80 object-cover rounded-lg"
                 />
                 {/* Steam animation */}

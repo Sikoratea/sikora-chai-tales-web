@@ -9,10 +9,11 @@ const Footer = () => {
           {/* Brand */}
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
-              <div className="w-8 h-8 bg-sikora-cream rounded-full flex items-center justify-center">
-                <span className="text-sikora-green font-serif font-bold text-lg">S</span>
-              </div>
-              <span className="font-serif text-2xl font-bold">Sikora</span>
+              <img 
+                src="/lovable-uploads/7903c528-82ad-4aa2-88b8-47d0889f0278.png" 
+                alt="Sikora Logo" 
+                className="h-8"
+              />
             </div>
             <p className="text-sikora-cream/80 max-w-md mb-4 leading-relaxed">
               Every sip tells a story of tradition, heritage, and the warmth of Indian chai culture. 
@@ -58,8 +59,8 @@ const Footer = () => {
             <h3 className="font-serif text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2 text-sikora-cream/80">
               <li>hello@sikora.tea</li>
-              <li>+91 98765 43210</li>
-              <li>Mumbai, India</li>
+              <li>+91-9929003003</li>
+              <li>Raj House, Jodhpur, Rajasthan</li>
             </ul>
           </div>
         </div>
